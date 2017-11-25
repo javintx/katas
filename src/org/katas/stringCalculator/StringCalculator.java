@@ -1,4 +1,4 @@
-package org.katas.kataStringCalculator;
+package org.katas.stringCalculator;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

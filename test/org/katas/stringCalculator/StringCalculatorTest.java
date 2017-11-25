@@ -1,4 +1,4 @@
-package org.katas.kataStringCalculator;
+package org.katas.stringCalculator;
 
 import org.junit.Before;
 import org.junit.Rule;
